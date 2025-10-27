@@ -12,11 +12,6 @@
 1. [Requirements & Rationale](#requirements--rationale)
 2. [Libraries Evaluated](#libraries-evaluated)
 3. [Detailed Library Analysis](#detailed-library-analysis)
-4. [Feature-by-Feature Comparison](#feature-by-feature-comparison)
-5. [Technical Comparison](#technical-comparison)
-6. [Cost & Effort Analysis](#cost--effort-analysis)
-7. [Final Recommendation](#final-recommendation)
-8. [Implementation Guide](#implementation-guide)
 
 ---
 
